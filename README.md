@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Vivek 👋</h1>
 
 <p align="center">
-  A passionate developer who loves building web apps, mobile apps, and everything in between.
+  A passionate developer who loves building web apps, mobile apps, and automating everything in between.<br/>
+  I self-host my own tools and run a home server to keep things ticking 24/7.
 </p>
 
 ---
@@ -24,6 +25,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF6C00?style=flat&logo=n8n&logoColor=white)
 
 ---
 
@@ -52,4 +55,6 @@
 ### 📫 Get in Touch
 
 - 🐙 GitHub: [@myselfvivek17](https://github.com/myselfvivek17)
+- 💼 LinkedIn: [Arcot Vivek](https://www.linkedin.com/in/arcot-vivek-15873b270/)
+- 📸 Instagram: [@vivekrockz_1703](https://www.instagram.com/vivekrockz_1703)
 - 🌐 Portfolio: [myselfvivek17.github.io/myportfolio](https://myselfvivek17.github.io/myportfolio)
