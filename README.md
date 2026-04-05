@@ -70,7 +70,6 @@
 |--------|-------------|------|
 | [yourCareer](https://github.com/myselfvivek17/yourCareer) | Company placement insights & personalised prep plans | Flutter, Firebase |
 | [Password Generator & Manager](https://github.com/myselfvivek17/Password-Generator-and-Manager) | Secure password generation and storage app | Java, JSP, MySQL |
-| [DinnerTonight](https://github.com/myselfvivek17/DinnerTonight) | AI-powered bio generator using Groq API | Python, Flask |
 | [myportfolio-react](https://github.com/myselfvivek17/myportfolio-react) | Personal portfolio site built with React | React, JavaScript |
 | [Spotify Clone](https://github.com/myselfvivek17/spotify-clone) | Spotify web player UI clone | HTML, CSS, JS |
 | [Quiz App](https://github.com/myselfvivek17/quiz) | Interactive multiple-choice quiz app | HTML, CSS, JS |
