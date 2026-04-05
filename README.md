@@ -17,11 +17,11 @@
 
 ### 🔥 Featured Project
 
-<a href="https://github.com/myselfvivek17/context-intelligence">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfvivek17&repo=context-intelligence&theme=tokyonight&hide_border=true" />
-</a>
+#### [`context-intelligence`](https://github.com/myselfvivek17/context-intelligence)
 
-> **Context Intelligence** — Model-agnostic middleware that gives any LLM persistent memory and reusable skills via the Model Context Protocol (MCP). Built with FastMCP, Qdrant vector DB, and FastEmbed. Works across Claude Desktop, Claude Code, Codex, and any MCP-compatible client.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blueviolet?style=flat) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat&logo=qdrant&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+> Model-agnostic middleware that gives any LLM persistent memory and reusable skills via MCP. Built with FastMCP, Qdrant vector DB, and FastEmbed. Works across Claude Desktop, Claude Code, Codex, and any MCP-compatible client. Switch models, keep your memory.
 
 ---
 
@@ -74,14 +74,6 @@
 | [myportfolio-react](https://github.com/myselfvivek17/myportfolio-react) | Personal portfolio site built with React | React, JavaScript |
 | [Spotify Clone](https://github.com/myselfvivek17/spotify-clone) | Spotify web player UI clone | HTML, CSS, JS |
 | [Quiz App](https://github.com/myselfvivek17/quiz) | Interactive multiple-choice quiz app | HTML, CSS, JS |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=myselfvivek17&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 
 ---
 
