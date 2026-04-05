@@ -43,7 +43,6 @@
 
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blueviolet?style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat&logo=qdrant&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 **Self-Hosting & Infrastructure**
 
