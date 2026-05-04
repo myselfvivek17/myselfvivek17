@@ -23,6 +23,11 @@
 
 > Model-agnostic middleware that gives any LLM persistent memory and reusable skills via MCP. Built with FastMCP, Qdrant vector DB, and FastEmbed. Works across Claude Desktop, Claude Code, Codex, and any MCP-compatible client. Switch models, keep your memory.
 
+#### [`context-intelligence-cli`](https://github.com/myselfvivek17/context-intelligence-cli)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/CLI-blueviolet?style=flat) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat&logo=qdrant&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+> Model-agnostic CLI that gives any LLM persistent memory and reusable skills via Qdrant vector DB and FastEmbed. Built to reduce context pollution by offloading memories externally. Works across Claude Desktop, Claude Code, Codex, and any MCP-compatible client. Switch models, keep your memory.
 ---
 
 ### 🛠️ Tech Stack
