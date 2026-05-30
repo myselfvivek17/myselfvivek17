@@ -1,36 +1,107 @@
-# Hi, I'm Vivek 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Vivek+%F0%9F%91%8B;Developer+%7C+Self-Hoster+%7C+Builder;Giving+LLMs+long-term+memory+%F0%9F%A7%A0" alt="Typing SVG" />
+</h1>
 
-Developer focused on building web applications, automating workflows, and self-hosting infrastructure. Currently passionate about equipping AI agents with persistent memory capabilities through the Model Context Protocol (MCP).
+<p align="center">
+  I build web apps, automate workflows, and self-host everything on my home server.<br/>
+  Currently obsessed with giving AI agents persistent memory via MCP.
+</p>
 
-## Featured Projects
+<p align="center">
+  <a href="https://www.linkedin.com/in/arcot-vivek-15873b270/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/vivekrockz_1703"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://myportfolio-react-beta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-### Core AI Infrastructure
-- **[context-intelligence](https://github.com/myselfvivek17/context-intelligence)** - Model-agnostic middleware for LLM persistent memory and reusable skills via MCP. Leverages Qdrant vector database and FastEmbed.
-- **[context-intelligence-cli](https://github.com/myselfvivek17/context-intelligence-cli)** - CLI tool for persistent memory and reusable skills via Qdrant vector DB and FastEmbed, minimizing context pollution.
-- **[automcp](https://github.com/myselfvivek17/automcp)** - Turn any API into a production-ready MCP server in seconds using multi-agent pipeline.
+---
 
-### Homelab & Infrastructure
-- **[lanpad](https://github.com/myselfvivek17/lanpad)** - Control your Windows laptop and Ubuntu home server from your phone over LAN
-- **[lazyprox](https://github.com/myselfvivek17/lazyprox)** - On-demand start/stop gateway for homelab services
+### 🔥 Featured Projects
 
-### Applications & Tools
-- **[yourCareer](https://github.com/myselfvivek17/yourCareer)** - Company placement insights and personalized prep plans (Dart)
-- **[Password-Generator-and-Manager](https://github.com/myselfvivek17/Password-Generator-and-Manager)** - Secure password generation and management tool (Java)
-- **[myportfolio-react](https://github.com/myselfvivek17/myportfolio-react)** - Personal portfolio website (React)
+#### [`context-intelligence`](https://github.com/myselfvivek17/context-intelligence)
 
-### Web Clones & Learning Projects
-- **[netflix-clone](https://github.com/myselfvivek17/netflix-clone)** - Netflix UI recreation
-- **[spotify-clone](https://github.com/myselfvivek17/spotify-clone)** - Music streaming clone
-- **[quiz](https://github.com/myselfvivek17/quiz)** - Interactive quiz application
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blueviolet?style=flat) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat&logo=qdrant&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## Tech Stack
+> Model-agnostic middleware that gives any LLM persistent memory and reusable skills via MCP. Built with FastMCP, Qdrant vector DB, and FastEmbed. Works across Claude Desktop, Claude Code, Codex, and any MCP-compatible client. Switch models, keep your memory.
 
-**Languages:** Python, JavaScript, Java, Dart, HTML5, CSS3  
-**Frameworks:** React, Flask, FastAPI, Flutter  
-**AI/Data:** MCP, Qdrant, Vector databases  
-**Infrastructure:** Docker, Ubuntu, Nginx, n8n, Home Assistant, Portainer, Wazuh  
-**Databases:** MySQL, Firebase, Git  
+#### [`context-intelligence-cli`](https://github.com/myselfvivek17/context-intelligence-cli)
 
-## Explore More
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/CLI-blueviolet?style=flat) ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat&logo=qdrant&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-View all [repositories](https://github.com/myselfvivek17?tab=repositories) • [Check out my work](https://github.com/myselfvivek17)
+> Model-agnostic CLI that gives any LLM persistent memory and reusable skills via Qdrant vector DB and FastEmbed. Built to reduce context pollution by offloading memories externally. Works across Claude Desktop, Claude Code, Codex, and any MCP-compatible client. Switch models, keep your memory.
+
+#### [`automcp`](https://github.com/myselfvivek17/automcp)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+> Turn any API into a production-ready MCP (Model Context Protocol) server in seconds with a multi-agent pipeline.
+
+#### [`lanpad`](https://github.com/myselfvivek17/lanpad)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+> Control your Windows laptop and Ubuntu home server from your phone over LAN. Real-time remote access without internet dependency.
+
+#### [`lazyprox`](https://github.com/myselfvivek17/lazyprox)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Gateway](https://img.shields.io/badge/Gateway-009639?style=flat)
+
+> On-demand start/stop gateway for homelab services. Save energy by spinning down services when not in use.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**AI & Data**
+
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blueviolet?style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F64?style=flat&logo=qdrant&logoColor=white)
+
+**Self-Hosting & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat&logo=nginx&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF6C00?style=flat&logo=n8n&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3C3C6E?style=flat&logo=wazuh&logoColor=white)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Other Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [yourCareer](https://github.com/myselfvivek17/yourCareer) | Company placement insights & personalised prep plans | Dart, Firebase |
+| [Password Generator & Manager](https://github.com/myselfvivek17/Password-Generator-and-Manager) | Secure password generation and storage app | Java |
+| [myportfolio-react](https://github.com/myselfvivek17/myportfolio-react) | Personal portfolio site built with React | React, JavaScript |
+| [Spotify Clone](https://github.com/myselfvivek17/spotify-clone) | Spotify web player UI clone | HTML, CSS, JS |
+| [Netflix Clone](https://github.com/myselfvivek17/netflix-clone) | Netflix UI recreation | HTML, CSS |
+| [Quiz App](https://github.com/myselfvivek17/quiz) | Interactive multiple-choice quiz app | HTML, CSS, JS |
+| [Shoe Haven](https://github.com/myselfvivek17/Shoe-Heven) | E-commerce platform | HTML, CSS |
+| [Portfolio](https://github.com/myselfvivek17/portfolio) | Earlier portfolio version | HTML, CSS |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=myselfvivek17&color=58A6FF&style=flat-square&label=Profile+Views" />
+</p>
